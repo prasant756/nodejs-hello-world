@@ -8,8 +8,8 @@ pipeline
     environment
     {
         VERSION = 'latest'
-        PROJECT = 'prasant-test'
-        IMAGE = 'prasant-test:latest'
+        PROJECT = 'prasant'
+        IMAGE = 'prasant:latest'
         ECRURL = '447444037533.dkr.ecr.us-east-2.amazonaws.com/prasant'
         //ECRCRED = 'ecr:us-east-1:tap_ecr'
     }
